@@ -2,11 +2,11 @@
 import mlflow
 import matplotlib.pyplot as plt
 import streamlit as st
+import seaborn as sns
 import pandas as pd
 import numpy as np
 from PIL import Image
 import matplotlib.pyplot as pyplot
-import seaborn as sns
 from sklearn.neighbors import KNeighborsClassifier
 from sklearn.linear_model import LogisticRegression
 from sklearn.tree import DecisionTreeClassifier
