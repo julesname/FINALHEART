@@ -1,4 +1,4 @@
-
+pip install seaborn
 import mlflow
 import matplotlib.pyplot as plt
 import streamlit as st
