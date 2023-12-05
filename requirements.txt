@@ -1,9 +1,9 @@
 mlflow
+streamlit
 pandas
 numpy
 Pillow
 matplotlib
+seaborn
 scikit-learn==1.2.2
 codecarbon
-streamlit==1.3.0
-seaborn==0.11.2
